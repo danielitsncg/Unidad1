@@ -69,7 +69,7 @@ public class Controller {
             case 8: {
                 String k = "Kiubo";
                 int res = texto.compareTo(k);
-                lblresultado.setText(res + "");
+                lblresultado.setText(res+"");
                 break;
             }
             case 9: {
