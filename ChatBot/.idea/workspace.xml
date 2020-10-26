@@ -57,7 +57,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectId" id="1iq9CoJCx1rMoKs7DPgWelCNZ6p" />
+  <component name="ProjectId" id="1jR4HwRas23tDkherSCYNG5juWu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectReloadState">
     <option name="STATE" value="0" />
@@ -67,16 +67,17 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="OverrideImplement.combined" value="false" />
-    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="recentsLimit" value="5" />
-    <property name="MemberChooser.sorted" value="false" />
-    <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="dynamic.classpath" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="OverrideImplement.combined" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -106,7 +107,7 @@
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="sample.Main" />
-      <module name="Cadenas" />
+      <module name="ChatBot" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -180,29 +181,25 @@
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="158" key="FileChooserDialogImpl" timestamp="1603138743391">
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom" timestamp="1603755533208">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="549" y="158" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1603138743391" />
-    <state width="1491" height="214" key="GridCell.Tab.0.bottom" timestamp="1603148199071">
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1603755533208" />
+    <state width="1493" height="213" key="GridCell.Tab.0.center" timestamp="1603755533208">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1491" height="214" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1603148199071" />
-    <state width="1491" height="214" key="GridCell.Tab.0.center" timestamp="1603148199071">
+    <state width="1493" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1603755533208" />
+    <state width="1493" height="213" key="GridCell.Tab.0.left" timestamp="1603755533208">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1491" height="214" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1603148199071" />
-    <state width="1491" height="214" key="GridCell.Tab.0.left" timestamp="1603148199071">
+    <state width="1493" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1603755533208" />
+    <state width="1493" height="213" key="GridCell.Tab.0.right" timestamp="1603755533208">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1491" height="214" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1603148199071" />
-    <state width="1491" height="214" key="GridCell.Tab.0.right" timestamp="1603148199071">
+    <state width="1493" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1603755533208" />
+    <state x="555" y="65" key="SettingsEditor" timestamp="1603755634316">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1491" height="214" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1603148199071" />
-    <state x="209" y="78" key="new project wizard" timestamp="1603138746966">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="209" y="78" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1603138746966" />
+    <state x="555" y="65" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1603755634316" />
   </component>
 </project>
